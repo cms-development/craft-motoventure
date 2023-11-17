@@ -1,0 +1,31 @@
+dateModified: 1700210868
+email:
+  fromEmail: frederick@rogerthat.be
+  fromName: Motoventure
+  replyToEmail: null
+  template: null
+  transportSettings:
+    host: $MAILPIT_SMTP_HOSTNAME
+    password: ''
+    port: $MAILPIT_SMTP_PORT
+    useAuthentication: '0'
+    username: ''
+  transportType: craft\mail\transportadapters\Smtp
+meta:
+  __names__:
+    4f1eb726-597b-4f1e-a8cd-70626942662b: 'Public Schema' # Public Schema
+    82217b22-1228-4e20-8c46-f00c4e169a62: Motoventure # Motoventure
+    c6e9e830-a37b-4898-a9f2-797c518d841b: Common # Common
+    c92095c3-7164-458e-9a21-2e8da53289c2: Motoventure # Motoventure
+system:
+  edition: pro
+  live: true
+  name: Motoventure
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
