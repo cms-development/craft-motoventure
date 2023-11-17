@@ -1,0 +1,43 @@
+fieldLayouts:
+  4ef9a949-5e04-4f3d-ab4b-0c00bd1e3d90:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: b29879d5-ddee-46b8-b6e5-6aa3d5a9c039
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: dc0e8b6b-70c1-401e-8116-483c6fa9acf7
+        userCondition: null
+fs: uploads
+handle: heroImages
+name: 'Hero Images'
+sortOrder: 1
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+transformFs: ''
+transformSubpath: ''

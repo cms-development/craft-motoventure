@@ -1,12 +1,27 @@
 {% extends "_layouts/site" %}
 
 {% block content %}
-<section class="hero" style="background-image: url('{{ siteUrl }}assets/images/photos/hero.jpg')">
+
+{% set scaledImage = entry.heroImage.one().url('thumbnail') %}
+
+{% set transformSetting = {
+  mode: 'crop',
+  width: 500,
+  height: 500,
+  quality: 75,
+  position: 'bottom-center'
+} %}
+
+{% set scaledImage2 = entry.heroImage.one().url(transformSetting) %}
+
+
+<section class="hero" style="background-image: url('{{ scaledImage2 }}')">
 <div class="hero__content content-column">
-    <h1>Motorcycle Stories, Lifestyle, and Gear</h1>
+    <h1>{{ entry.heroTitle }}</h1>
 </div>
 </section>
-
+<div style="background: white;">
+</div>
 <section class="featured-story">
 <div class="featured-story__flex content-column">
     <div class="featured-story__content">
