@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Homepage
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  c92095c3-7164-458e-9a21-2e8da53289c2: # Motoventure
+    enabledByDefault: true
+    hasUrls: true
+    template: _pages/_home
+    uriFormat: __home__
+type: single
