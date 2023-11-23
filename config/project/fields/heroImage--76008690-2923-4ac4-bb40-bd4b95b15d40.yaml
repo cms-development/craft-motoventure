@@ -12,7 +12,7 @@ settings:
   allowedKinds:
     - image
   branchLimit: null
-  defaultUploadLocationSource: 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Hero Images
+  defaultUploadLocationSource: 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Local Images
   defaultUploadLocationSubpath: null
   localizeRelations: false
   maintainHierarchy: false
@@ -22,7 +22,7 @@ settings:
   restrictFiles: true
   restrictLocation: false
   restrictedDefaultUploadSubpath: null
-  restrictedLocationSource: 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Hero Images
+  restrictedLocationSource: 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Local Images
   restrictedLocationSubpath: null
   selectionCondition:
     __assoc__:
@@ -40,7 +40,7 @@ settings:
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
   sources:
-    - 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Hero Images
+    - 'volume:a5d3ae62-71dc-44bb-a232-01f4d1d04ee8' # Local Images
   targetSiteId: null
   validateRelatedElements: false
   viewMode: large

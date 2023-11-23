@@ -1,0 +1,19 @@
+columnSuffix: beafoqau
+contentColumnType: text
+fieldGroup: ace2a89f-2372-415f-ac0e-ac7f92aa9dc4 # Home
+handle: teamSubtitle
+instructions: null
+name: 'Team Subtitle'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -63,6 +63,48 @@ fieldLayouts:
         name: Hero
         uid: 5c0ff787-6cf1-4be9-920e-70be481cc709
         userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: c2783bdf-cb6f-4db5-849a-0569ca4d6894 # Team Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e697ac52-6218-48b1-87c2-db268d0aadaa
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: c4c5cc5b-552c-40c3-b304-0819a9026dd7 # Team Subtitle
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 467b3c7e-c137-4623-99d5-4512b16dce8c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 06dc4121-2980-4adb-9a19-9eedb42098ed # Team Members
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a8875abb-0b59-4797-9a00-ddddb4199a91
+            userCondition: null
+            warning: null
+            width: 100
+        name: Team
+        uid: 4a1bd2cc-03aa-4f6d-b92d-d2ec1b697e16
+        userCondition: null
 handle: home
 hasTitleField: false
 name: Homepage

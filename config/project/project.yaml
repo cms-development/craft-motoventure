@@ -1,4 +1,4 @@
-dateModified: 1700217648
+dateModified: 1700218653
 email:
   fromEmail: frederick@rogerthat.be
   fromName: Motoventure
@@ -22,14 +22,20 @@ fs:
 meta:
   __names__:
     4f1eb726-597b-4f1e-a8cd-70626942662b: 'Public Schema' # Public Schema
+    06dc4121-2980-4adb-9a19-9eedb42098ed: 'Team Members' # Team Members
     1215c386-40af-4b4a-85ce-5acd0cbd73d8: thumbnail # thumbnail
     1568e7f7-33c4-4f47-bc96-df9ef4f79429: Homepage # Homepage
+    6195b689-69ec-4bec-a717-bffe0aa4c910: Members # Members
     32521f3e-9d40-45c9-a72b-3187f2cc02ac: 'Hero Title' # Hero Title
     82217b22-1228-4e20-8c46-f00c4e169a62: Motoventure # Motoventure
     76008690-2923-4ac4-bb40-bd4b95b15d40: 'Hero Image' # Hero Image
-    a5d3ae62-71dc-44bb-a232-01f4d1d04ee8: 'Hero Images' # Hero Images
+    a5d3ae62-71dc-44bb-a232-01f4d1d04ee8: 'Local Images' # Local Images
     ace2a89f-2372-415f-ac0e-ac7f92aa9dc4: Home # Home
+    b410990d-2fcd-4be4-9444-03eae2d99dca: 'Full Name' # Full Name
+    c3c4c921-08e1-4b6f-8bdc-d2b172820b8d: Image # Image
+    c4c5cc5b-552c-40c3-b304-0819a9026dd7: 'Team Subtitle' # Team Subtitle
     c6e9e830-a37b-4898-a9f2-797c518d841b: Common # Common
+    c2783bdf-cb6f-4db5-849a-0569ca4d6894: 'Team Title' # Team Title
     c92095c3-7164-458e-9a21-2e8da53289c2: Motoventure # Motoventure
     f01e8024-a0e4-4018-aa69-ae0c9d5ede2c: Homepage # Homepage
 system:

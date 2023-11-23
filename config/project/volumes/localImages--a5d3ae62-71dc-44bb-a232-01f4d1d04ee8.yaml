@@ -34,8 +34,8 @@ fieldLayouts:
         uid: dc0e8b6b-70c1-401e-8116-483c6fa9acf7
         userCondition: null
 fs: uploads
-handle: heroImages
-name: 'Hero Images'
+handle: localImages
+name: 'Local Images'
 sortOrder: 1
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
